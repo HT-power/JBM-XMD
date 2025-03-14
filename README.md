@@ -60,6 +60,18 @@
   </a>
   <a href="https://jbm-scanner.onrender.com">
     <img src="https://img.shields.io/badge/Get%20Session-Now-00C853?style=for-the-badge&logo=whatsapp&logoColor=white">
+    ## 📑 Contribution 
+
+We welcome contributions to **JBM-XMD**. If you encounter any bugs or have new ideas for features, feel free to open an issue or submit a pull request. Please follow the code of conduct and provide detailed explanations with your pull requests. 
+
+--- 
+
+## 📅 Footer 
+
+<p align="center">
+  <small>&copy; 2025 CODE BY JACOB MUSYOKA/// JBM-XMD </small>
+</p>
+
   </a>
 </p> 
 
