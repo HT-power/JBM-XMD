@@ -1,7 +1,7 @@
 # JBM-XMD
 
 <p align="center">
-  <img src="https://files.catbox.moe/fbpw8g.jpg" alt="JBM-XMD-BOT" width="100%">
+  <img src="https://files.catbox.moe/fabkcx.jpg" alt="JBM-XMD-BOT" width="100%">
 </p> 
 
 # 🚀 **JBM-XMD** – The Ultimate WhatsApp Bot 🤖🔥  
