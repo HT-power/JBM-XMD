@@ -69,8 +69,6 @@ We welcome contributions to **JBM-XMD**. If you encounter any bugs or have new i
 
 --- 
 
-## 📅 Footer 
-
 <p align="center">
   <small>&copy; 2025 CODE BY JACOB MUSYOKA/// JBM-XMD </small>
 </p>
