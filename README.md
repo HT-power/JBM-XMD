@@ -58,9 +58,13 @@
   <a href="https://dashboard.heroku.com/new?template=https://github.com/">
     <img src="https://img.shields.io/badge/Deploy%20to-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </a>
-  <a href="https://jbm-scanner.onrender.com">
-    <img src="https://img.shields.io/badge/Get%20Session-Now-00C853?style=for-the-badge&logo=whatsapp&logoColor=white">
-   
+  
+   <div align="left">
+    <a href="https://jbm-scanner.onrender.com">
+        <img title="JBM-XMD Session ID" src="https://img.shields.io/badge/GET%20SESSION-FF5733?style=for-the-badge&logo=msi&logoColor=white" width="220" height="38.45" />
+    </a>
+</div>
+
       
       ##
       📑 Contribution 
