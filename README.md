@@ -65,17 +65,20 @@
 ## ⚡ **Deploy Your Own JBM-XMD-BOT**  
 
 > 🔥 **Easily Deploy & Run JBM-XMD on Your Server**  
-
-<p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/">
-    <img src="https://img.shields.io/badge/Deploy%20to-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  </a>
-  
-   <div align="left">
-    <a href="https://jbm-scanner.onrender.com">
-        <img title="JBM-XMD Session ID" src="https://img.shields.io/badge/GET%20SESSION-FF5733?style=for-the-badge&logo=msi&logoColor=white" width="220" height="38.45" />
-    </a>
+### Pair with WhatsApp
+  <div align="left">
+    <a href="https://pkdriller-scanner.onrender.com">
+        <img title="PKXMD Session ID" src="https://img.shields.io/badge/GET%20SESSION-FF5733?style=for-the-badge&logo=msi&logoColor=white" width="220" height="38.45" />
+    </a>
 </div>
+  
+  
+<h2 style="color: #8E44AD; font-family: 'Courier New';">DEPLOY TO HEROKU</h2>
+<p align="left">
+    <a href="https://dashboard.heroku.com/new?template=https://github.com/Pkdriller/PKXMD-BOT">
+        <img src="https://img.shields.io/badge/Heroku%20Deploy-9B59B6?style=for-the-badge&logo=heroku" width="220" height="38.45" />
+    </a>
+</p>
 
       
       
