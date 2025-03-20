@@ -1,6 +1,6 @@
 # JBM-XMD
 
-a><img src='https://i.imgur.com/LyHic3i.gif'/> 
+<img src='https://i.imgur.com/LyHic3i.gif'/> 
 
 <p align="center"> 
   <p align="center">
