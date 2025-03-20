@@ -78,8 +78,8 @@
 </div>
 
       
-      ##
-      📑 Contribution 
+      
+    Contribution 
 
 We welcome contributions to **JBM-XMD**. If you encounter any bugs or have new ideas for features, feel free to open an issue or submit a pull request. Please follow the code of conduct and provide detailed explanations with your pull requests. 
 
