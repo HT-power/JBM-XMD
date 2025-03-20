@@ -1,5 +1,17 @@
 # JBM-XMD
 
+a><img src='https://i.imgur.com/LyHic3i.gif'/> 
+
+<p align="center"> 
+  <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=THIS+IS+JBM+XMD ❤️+;JACOB-+XD 🎉;CREATED+BY+JACOB-KING 🤴" alt="Typing SVG" /></a>
+  </p>
+  
+<a><img src='https://i.imgur.com/LyHic3i.gif'/> 
+
+> **`Updated To` The Version 3.0.0**
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
 <p align="center">
   <img src="https://files.catbox.moe/fabkcx.jpg" alt="JBM-XMD-BOT" width="100%">
 </p> 
