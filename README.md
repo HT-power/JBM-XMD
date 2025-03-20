@@ -59,7 +59,8 @@
 </p> 
 
 📞 **Contact on WhatsApp:** [Mr JACOB MUSYOKA](https://wa.me/254736512615)  
-
+.[H.T Power ✨].
+(https://wa.me/254758909597)
 --- 
 
 ## ⚡ **Deploy Your Own JBM-XMD-BOT**  
@@ -68,7 +69,7 @@
 >
 ### Pair with WhatsApp
   <div align="left">
-    <a href="https://-scanner.onrender.com">
+    <a href="https://pkdriller-scanner.onrender.com">
         <img title="Session ID" src="https://img.shields.io/badge/GET%20SESSION-FF5733?style=for-the-badge&logo=msi&logoColor=white" width="220" height="38.45" />
     </a>
 </div>
