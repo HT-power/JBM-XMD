@@ -66,67 +66,6 @@
 
 > 🔥 **Easily Deploy & Run JBM-XMD on Your Server**
 >
-> 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Color Animation</title>
-  <style>
-    .animation-container {
-      position: relative;
-      width: 100vw;
-      height: 100vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background: black;
-      overflow: hidden;
-    }
-    .circle {
-      position: absolute;
-      width: 50px;
-      height: 50px;
-      border-radius: 50%;
-      animation: moveAround 10s infinite linear;
-    }
-    .circle:nth-child(1) { background: #FF5733; animation-delay: 0s; }
-    .circle:nth-child(2) { background: #33FF57; animation-delay: 1s; }
-    /* Add similar styles for 18 more colors */
-    @keyframes moveAround {
-      0% { transform: translate(0, 0); }
-      25% { transform: translate(200px, 0); }
-      50% { transform: translate(200px, 200px); }
-      75% { transform: translate(0, 200px); }
-      100% { transform: translate(0, 0); }
-    }
-    .badge-img {
-      position: relative;
-      animation: bounce 3s infinite alternate;
-    }
-    @keyframes bounce {
-      0% { transform: translateY(0); }
-[20/3, 09:33] Chatgpt: 50% { transform: translateY(-20px); }
-      100% { transform: translateY(0); }
-    }
-  </style>
-</head>
-<body>
-
-<div class="animation-container">
-  <a href="https://pkdriller-scanner.onrender.com">
-    <img class="badge-img" src="https://img.shields.io/badge/GET%20SESSION-FF5733?style=for-the-badge&logo=msi&logoColor=white" width="220" height="38.45" />
-  </a>
-  <!-- Circles (20 colors) -->
-  <div class="circle"></div><div class="circle"></div><div class="circle"></div>
-  <div class="circle"></div><div class="circle"></div><div class="circle"></div>
-  <!-- Add more circles as needed -->
-</div>
-
-</body>
-</html>
 ### Pair with WhatsApp
   <div align="left">
     <a href="https://pkdriller-scanner.onrender.com">
