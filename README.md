@@ -64,7 +64,8 @@
 
 ## ⚡ **Deploy Your Own JBM-XMD-BOT**  
 
-> 🔥 **Easily Deploy & Run JBM-XMD on Your Server**  
+> 🔥 **Easily Deploy & Run JBM-XMD on Your Server**
+> 
 ### Pair with WhatsApp
   <div align="left">
     <a href="https://pkdriller-scanner.onrender.com">
